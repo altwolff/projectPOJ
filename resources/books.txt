@@ -1,0 +1,47 @@
+A Study in Scarlet,Arthur Conan Doyle,Ward Lock & Co,1887,327,DETECTIVE,123-4-56-789012-3,false
+Pride and Prejudice,Jane Austen,T. Egerton,1813,279,ROMANCE,234-5-67-890123-4,false
+The Hobbit,J.R.R. Tolkien,George Allen & Unwin,1937,310,FANTASY,345-6-78-901234-5,false
+1984,George Orwell,Secker & Warburg,1949,328,ADVENTURE,456-7-89-012345-6,false
+Dracula,Bram Stoker,Archibald Constable and Company,1897,418,HORROR,567-8-90-123456-7,false
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Pan Books,1979,224,COMEDY,678-9-01-234567-8,false
+The Waste Land,T.S. Eliot,Faber & Faber,1922,64,POETRY,789-0-12-345678-9,false
+Romeo and Juliet,William Shakespeare,Thomas Cotes,1597,320,DRAMA,890-1-23-456789-0,false
+War and Peace,Leo Tolstoy,The Russian Messenger,1869,1225,HISTORICAL,901-2-34-567890-1,false
+Watchmen,Alan Moore,DC Comics,1987,416,GRAPHIC_NOVEL,012-3-45-678901-2,false
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,Harper,2011,443,NON_FICTION,123-4-56-789012-3,false
+To Kill a Mockingbird,Harper Lee,J.B. Lippincott & Co.,1960,281,OTHER,234-5-67-890123-4,false
+The Catcher in the Rye,J.D. Salinger,Brown and Company,1951,277,DETECTIVE,345-6-78-901234-5,false
+Moby-Dick,Herman Melville,Richard Bentley,1851,585,ROMANCE,456-7-89-012345-6,false
+Alice's Adventures in Wonderland,Lewis Carroll,Macmillan Publishers,1865,200,FANTASY,567-8-90-123456-7,false
+The Great Gatsby,F. Scott Fitzgerald,Charles Scribner's Sons,1925,218,ADVENTURE,678-9-01-234567-8,true
+The Road,Cormac McCarthy,Alfred A. Knopf,2006,287,HORROR,789-0-12-345678-9,false
+Frankenstein,Mary Shelley,Lackington,1818,280,COMEDY,890-1-23-456789-0,false
+Crime and Punishment,Fyodor Dostoevsky,The Russian Messenger,1866,671,DRAMA,012-3-45-678901-2,false
+The Lord of the Rings,J.R.R. Tolkien,George Allen & Unwin,1954,1178,HISTORICAL,123-4-56-789012-3,false
+The Girl with the Dragon Tattoo,Stieg Larsson,Norstedts Förlag,2005,672,GRAPHIC_NOVEL,234-5-67-890123-4,false
+The Secret Garden,Frances Hodgson Burnett,Heinemann,1911,250,OTHER,456-7-89-012345-6,false
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,George Newnes,1892,307,DETECTIVE,567-8-90-123456-7,false
+One Hundred Years of Solitude,Gabriel García Márquez,Editorial Sudamericana,1967,417,ROMANCE,678-9-01-234567-8,false
+Brave New World,Aldous Huxley,Chatto & Windus,1932,311,FANTASY,789-0-12-345678-9,false
+The Brothers Karamazov,Fyodor Dostoevsky,The Russian Messenger,1880,796,ADVENTURE,890-1-23-456789-0,false
+Hamlet,William Shakespeare,William Shakespeare,1603,342,HORROR,901-2-34-567890-1,false
+The Count of Monte Cristo,Alexandre Dumas,Publisher: Pétion et Cie,1844,464,COMEDY,012-3-45-678901-2,false
+The Divine Comedy,Dante Alighieri,Florence,1308,798,POETRY,123-4-56-789012-3,false
+The Picture of Dorian Gray,Oscar Wilde,Ward Lock & Co,1890,254,DRAMA,234-5-67-890123-4,false
+Les Misérables,Victor Hugo,A. Lacroix,1862,1232,HISTORICAL,345-6-78-901234-5,false
+The Alchemist,Paulo Coelho,HarperTorch,1988,163,GRAPHIC_NOVEL,456-7-89-012345-6,false
+The Wind in the Willows,Kenneth Grahame,Methuen,1908,256,OTHER,678-9-01-234567-8,false
+The Three Musketeers,Alexandre Dumas,Publisher: Baudry,1844,624,DETECTIVE,789-0-12-345678-9,false
+The Little Prince,Antoine de Saint-Exupéry,Reynal & Hitchcock,1943,96,ROMANCE,890-1-23-456789-0,false
+Gone with the Wind,Margaret Mitchell,Macmillan Publishers,1936,1037,ADVENTURE,012-3-45-678901-2,false
+The Shining,Stephen King,Doubleday,1977,447,HORROR,123-4-56-789012-3,false
+Don Quixote,Miguel de Cervantes,Felipe de Robles,1605,863,POETRY,345-6-78-901234-5,false
+Anna Karenina,Leo Tolstoy,The Russian Messenger,1878,964,DRAMA,456-7-89-012345-6,false
+A Tale of Two Cities,Charles Dickens,Chapman & Hall,1859,448,HISTORICAL,567-8-90-123456-7,false
+The Adventures of Tom Sawyer,Mark Twain,Charles L. Webster And Company,1876,366,GRAPHIC_NOVEL,678-9-01-234567-8,false
+The Grapes of Wrath,John Steinbeck,The Viking Press,1939,464,NON_FICTION,789-0-12-345678-9,false
+Chronicles of Narnia,C.S. Lewis,Geoffrey Bles,1950,767,OTHER,890-1-23-456789-0,false
+The War of the Worlds,H.G. Wells,William Heinemann,1898,288,DETECTIVE,901-2-34-567890-1,false
+Lord of the Flies,William Golding,Faber and Faber,1954,224,ROMANCE,012-3-45-678901-2,false
+The Old Man and the Sea,Ernest Hemingway,Charles Scribner's Sons,1952,127,ADVENTURE,234-5-67-890123-4,false
+Catch-22,Joseph Heller,Simon & Schuster,1961,453,HORROR,345-6-78-901234-5,false
